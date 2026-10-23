@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editor and backup files
+*.swp
+*~
+*.bak
+
+# OS
+Thumbs.db
